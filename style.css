@@ -7,16 +7,14 @@ body {
   background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
 }
 
-img {
+
+
+
+.profile-pic {
   width: %50;
   height: auto;
+  border-radius: 50%;
 }
-
-
-/* .profile-pic {
-  width: %50;
-  height: auto;
-} */
 
 .header {
   background-color: CornflowerBlue;
